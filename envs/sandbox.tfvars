@@ -1,0 +1,6 @@
+project_id  = "flinks-sandbox"
+vm_name     = "sandbox-spot-vm-test"
+vm_type     = "e2-medium"
+vm_zone     = "us-central1-a"
+vm_img      = "debian-cloud/debian-11"
+vm_network  = "default"
